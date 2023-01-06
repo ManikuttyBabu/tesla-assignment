@@ -1,0 +1,26 @@
+
+
+body{
+ background-image: url(koi.jpg);
+ background-size: 1360px;
+ height: 100vh;
+
+}
+.navbar-brand{
+ width: 15vw;
+ height: 10vh;
+}
+.navbar-nav{
+ margin-left: 70px;
+}
+.nav a{
+ color: black;
+}
+.container a {
+ color: black;
+}
+.btn11{
+background-color: black;
+ color: white;
+}
+
